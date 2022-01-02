@@ -1,0 +1,16 @@
+D:\Web Development Assignment\Ass2\Ass2_11\bin\Debug\net5.0\Ass2_11.exe
+D:\Web Development Assignment\Ass2\Ass2_11\bin\Debug\net5.0\Ass2_11.deps.json
+D:\Web Development Assignment\Ass2\Ass2_11\bin\Debug\net5.0\Ass2_11.runtimeconfig.json
+D:\Web Development Assignment\Ass2\Ass2_11\bin\Debug\net5.0\Ass2_11.runtimeconfig.dev.json
+D:\Web Development Assignment\Ass2\Ass2_11\bin\Debug\net5.0\Ass2_11.dll
+D:\Web Development Assignment\Ass2\Ass2_11\bin\Debug\net5.0\ref\Ass2_11.dll
+D:\Web Development Assignment\Ass2\Ass2_11\bin\Debug\net5.0\Ass2_11.pdb
+D:\Web Development Assignment\Ass2\Ass2_11\obj\Debug\net5.0\Ass2_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development Assignment\Ass2\Ass2_11\obj\Debug\net5.0\Ass2_11.AssemblyInfoInputs.cache
+D:\Web Development Assignment\Ass2\Ass2_11\obj\Debug\net5.0\Ass2_11.AssemblyInfo.cs
+D:\Web Development Assignment\Ass2\Ass2_11\obj\Debug\net5.0\Ass2_11.csproj.CoreCompileInputs.cache
+D:\Web Development Assignment\Ass2\Ass2_11\obj\Debug\net5.0\Ass2_11.dll
+D:\Web Development Assignment\Ass2\Ass2_11\obj\Debug\net5.0\ref\Ass2_11.dll
+D:\Web Development Assignment\Ass2\Ass2_11\obj\Debug\net5.0\Ass2_11.pdb
+D:\Web Development Assignment\Ass2\Ass2_11\obj\Debug\net5.0\Ass2_11.genruntimeconfig.cache
+D:\Web Development Assignment\Ass2\Ass2_11\obj\Debug\net5.0\Ass2_11.csproj.AssemblyReference.cache

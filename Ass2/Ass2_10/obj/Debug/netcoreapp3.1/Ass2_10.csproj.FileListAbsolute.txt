@@ -1,0 +1,14 @@
+D:\Web Development Assignment\Ass2\Ass2_10\bin\Debug\netcoreapp3.1\Ass2_10.exe
+D:\Web Development Assignment\Ass2\Ass2_10\bin\Debug\netcoreapp3.1\Ass2_10.deps.json
+D:\Web Development Assignment\Ass2\Ass2_10\bin\Debug\netcoreapp3.1\Ass2_10.runtimeconfig.json
+D:\Web Development Assignment\Ass2\Ass2_10\bin\Debug\netcoreapp3.1\Ass2_10.runtimeconfig.dev.json
+D:\Web Development Assignment\Ass2\Ass2_10\bin\Debug\netcoreapp3.1\Ass2_10.dll
+D:\Web Development Assignment\Ass2\Ass2_10\bin\Debug\netcoreapp3.1\Ass2_10.pdb
+D:\Web Development Assignment\Ass2\Ass2_10\obj\Debug\netcoreapp3.1\Ass2_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development Assignment\Ass2\Ass2_10\obj\Debug\netcoreapp3.1\Ass2_10.AssemblyInfoInputs.cache
+D:\Web Development Assignment\Ass2\Ass2_10\obj\Debug\netcoreapp3.1\Ass2_10.AssemblyInfo.cs
+D:\Web Development Assignment\Ass2\Ass2_10\obj\Debug\netcoreapp3.1\Ass2_10.csproj.CoreCompileInputs.cache
+D:\Web Development Assignment\Ass2\Ass2_10\obj\Debug\netcoreapp3.1\Ass2_10.dll
+D:\Web Development Assignment\Ass2\Ass2_10\obj\Debug\netcoreapp3.1\Ass2_10.pdb
+D:\Web Development Assignment\Ass2\Ass2_10\obj\Debug\netcoreapp3.1\Ass2_10.genruntimeconfig.cache
+D:\Web Development Assignment\Ass2\Ass2_10\obj\Debug\netcoreapp3.1\Ass2_10.csproj.AssemblyReference.cache

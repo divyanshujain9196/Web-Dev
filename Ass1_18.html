@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>
+Login page
+</title>
+<style>
+    label.exe{
+    padding-left: 80px;
+    }
+    .button {
+position: absolute;
+left: 220px;
+
+}
+   
+</style>
+<script >
+    function check(form)
+    {
+     
+     if( form.pass.value == "12345678")
+      {
+        window.open("Ass1_18(validation).html")
+      }
+     else
+     {
+       alert("Incorrect Password")
+      }
+    }
+    </script>
+</head>
+<body>
+<p>Moving to Next Page - Password validation</p>
+<form name="login">
+    <label class="exe" for="FirstName"><b>UserName : </b></label>
+    <input autofocus type="text" name="name"  size="25" required /> <br><br>
+    <label class="exe" for="LastName"><b>Password : </b></label>
+    <input type="password" name="pass"  size="25" required /> <br> <br>
+    <input class="button" type="button" onclick="check(login)" value="Submit Query"/>
+</form>
+
+</body>
+</html>

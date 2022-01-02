@@ -1,0 +1,87 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+<style>  
+body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: pink;  
+}  
+.container {  
+    padding: 50px;  
+  background-color: lightblue;  
+}  
+  
+input[type=text],[type=email],  textarea {  
+  width: 100%;  
+  padding: 15px;  
+  margin: 5px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+}  
+ 
+ div {  
+            padding: 10px 0;  
+         }  
+hr {  
+  border: 1px solid #f1f1f1;  
+  margin-bottom: 25px;  
+}  
+.registerbtn {  
+  background-color: #4CAF50;  
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 100%;  
+  opacity: 0.9;  
+}  
+.registerbtn:hover {  
+  opacity: 1;  
+}  
+</style>  
+<title>Employee Registration Form</title>
+</head>  
+<body>  
+<form>  
+  <div class="container">  
+  <center>  <h1> Registeration Form </h1> </center>  
+  <hr>  
+  <label for="Name"><b>Name</b></label>
+<input type="text" name="name" placeholder= " Enter Name" size="15" required />   
+  
+  
+<div>  
+<label>   
+<label for="gender"><b>Gender</b></label>  
+</label><br>  
+<input type="radio" value="Male" name="gender" checked > Male   
+<input type="radio" value="Female" name="gender"> Female   
+<input type="radio" value="Other" name="gender"> Other  
+  
+</div>  
+<label>   
+<label for="phone"><b>Phone No:</b></label>  
+</label>  
+
+<input type="text" name="phone" placeholder="phone no." size="10"/ required>   
+<label for="address"><b>Address</b></label>  
+<textarea cols="80" rows="3" placeholder="Current Address" value="address" required>  
+     
+</textarea> 
+<label for="pin"><b>Pin Code</b></label>
+    <input type="text" placeholder="Enter Pin" name="pin" required>  
+ <label for="email"><b>Email</b></label>  
+ <input type="email" placeholder="Enter Email" name="email" required/>  
+  
+    <label for="city"><b>City</b></label>  
+    <input type="text" placeholder="Enter City Name" name="city" required>  
+  
+    <label for="state"><b>State</b></label>  
+    <input type="text" placeholder="Enter State Name" name="state" required>  
+    <button type="submit" class="registerbtn">Register</button>    
+</form>  
+</body>  
+</html>

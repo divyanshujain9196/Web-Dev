@@ -1,0 +1,45 @@
+<!DOCTYPE html >
+<HTML>
+ <HEAD>
+  <TITLE> New Document </TITLE>
+  <style>
+      label.exe{
+        padding-left: 80px;
+        }
+  </style>
+  <script type="text/javascript">
+	
+	function init(){
+		getName();
+		
+	}
+
+	function getName(){
+		var nameForm=document.frm;
+		var name=prompt("user first name","");
+		if(name != null && name!=""){
+		
+			nameForm.fname.value=name;
+		}
+        var nameForm=document.frm;
+		var lname=prompt("user last name","");
+		if(lname != null && lname!=""){
+		
+			nameForm.lname.value=lname;
+		}
+		
+	}
+	
+  </script>
+
+ </HEAD>
+ <BODY onload="init()">
+       <center><p>Getting input from prompt box and display in textbox</p></center>
+	<form name="frm">
+        <label class="exe" for="FirstName"><b>FirstName : </b></label>
+		<input class="exe" type="text" name="fname"/> <br> <br>
+        <label class="exe" for="LastName"><b>LastName : </b></label>
+        <input class="exe" type="text" name="lname" >
+	</form>
+ </BODY>
+</HTML>

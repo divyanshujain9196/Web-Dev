@@ -1,0 +1,16 @@
+D:\Web Development Assignment\Ass2\Ass2_5_while\bin\Debug\net5.0\Ass2_5_while.exe
+D:\Web Development Assignment\Ass2\Ass2_5_while\bin\Debug\net5.0\Ass2_5_while.deps.json
+D:\Web Development Assignment\Ass2\Ass2_5_while\bin\Debug\net5.0\Ass2_5_while.runtimeconfig.json
+D:\Web Development Assignment\Ass2\Ass2_5_while\bin\Debug\net5.0\Ass2_5_while.runtimeconfig.dev.json
+D:\Web Development Assignment\Ass2\Ass2_5_while\bin\Debug\net5.0\Ass2_5_while.dll
+D:\Web Development Assignment\Ass2\Ass2_5_while\bin\Debug\net5.0\ref\Ass2_5_while.dll
+D:\Web Development Assignment\Ass2\Ass2_5_while\bin\Debug\net5.0\Ass2_5_while.pdb
+D:\Web Development Assignment\Ass2\Ass2_5_while\obj\Debug\net5.0\Ass2_5_while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development Assignment\Ass2\Ass2_5_while\obj\Debug\net5.0\Ass2_5_while.AssemblyInfoInputs.cache
+D:\Web Development Assignment\Ass2\Ass2_5_while\obj\Debug\net5.0\Ass2_5_while.AssemblyInfo.cs
+D:\Web Development Assignment\Ass2\Ass2_5_while\obj\Debug\net5.0\Ass2_5_while.csproj.CoreCompileInputs.cache
+D:\Web Development Assignment\Ass2\Ass2_5_while\obj\Debug\net5.0\Ass2_5_while.dll
+D:\Web Development Assignment\Ass2\Ass2_5_while\obj\Debug\net5.0\ref\Ass2_5_while.dll
+D:\Web Development Assignment\Ass2\Ass2_5_while\obj\Debug\net5.0\Ass2_5_while.pdb
+D:\Web Development Assignment\Ass2\Ass2_5_while\obj\Debug\net5.0\Ass2_5_while.genruntimeconfig.cache
+D:\Web Development Assignment\Ass2\Ass2_5_while\obj\Debug\net5.0\Ass2_5_while.csproj.AssemblyReference.cache

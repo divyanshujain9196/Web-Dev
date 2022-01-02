@@ -1,0 +1,15 @@
+D:\Web Development Assignment\Ass2\Ass2_4\bin\Release\net5.0\Ass2_4.exe
+D:\Web Development Assignment\Ass2\Ass2_4\bin\Release\net5.0\Ass2_4.deps.json
+D:\Web Development Assignment\Ass2\Ass2_4\bin\Release\net5.0\Ass2_4.runtimeconfig.json
+D:\Web Development Assignment\Ass2\Ass2_4\bin\Release\net5.0\Ass2_4.runtimeconfig.dev.json
+D:\Web Development Assignment\Ass2\Ass2_4\bin\Release\net5.0\Ass2_4.dll
+D:\Web Development Assignment\Ass2\Ass2_4\bin\Release\net5.0\ref\Ass2_4.dll
+D:\Web Development Assignment\Ass2\Ass2_4\bin\Release\net5.0\Ass2_4.pdb
+D:\Web Development Assignment\Ass2\Ass2_4\obj\Release\net5.0\Ass2_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development Assignment\Ass2\Ass2_4\obj\Release\net5.0\Ass2_4.AssemblyInfoInputs.cache
+D:\Web Development Assignment\Ass2\Ass2_4\obj\Release\net5.0\Ass2_4.AssemblyInfo.cs
+D:\Web Development Assignment\Ass2\Ass2_4\obj\Release\net5.0\Ass2_4.csproj.CoreCompileInputs.cache
+D:\Web Development Assignment\Ass2\Ass2_4\obj\Release\net5.0\Ass2_4.dll
+D:\Web Development Assignment\Ass2\Ass2_4\obj\Release\net5.0\ref\Ass2_4.dll
+D:\Web Development Assignment\Ass2\Ass2_4\obj\Release\net5.0\Ass2_4.pdb
+D:\Web Development Assignment\Ass2\Ass2_4\obj\Release\net5.0\Ass2_4.genruntimeconfig.cache
